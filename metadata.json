@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Recipe Idea Generator",
+  "description": "A simple and beautiful web app that uses Gemini to generate recipe ideas based on a single ingredient. Users can browse generated recipes and save their favorites for later."
+}
