@@ -1,8 +1,8 @@
-# Run your AI Recipe explorer app
+# Run my AI Recipe explorer app
 
-This contains everything you need to run your app locally.
+This contains everything you need to run my app locally.
 
-View your app : https://himanshu1281.github.io/AI-recipe-explorer-app/
+View my app : https://himanshu1281.github.io/AI-recipe-explorer-app/
 
 ## Run Locally
 
